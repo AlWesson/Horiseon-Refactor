@@ -148,7 +148,10 @@ p {
     max-height: 200px;
 }*/
 
-
+.content div h2{
+    margin-bottom: 20px;
+    font-size: 36px;
+}
 
 /*.search-engine-optimization h2 {
     margin-bottom: 20px;
