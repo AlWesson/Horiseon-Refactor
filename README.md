@@ -13,5 +13,5 @@ To test out the material learned from so far within the bootcamp.
 ## Credits
 N/A
 
-##License
+## License
 
