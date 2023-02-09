@@ -7,10 +7,10 @@ Page created for week 1 challenge. Page must remain the same while cleaning up t
 ## Installation
 N/A
 
-##Usage
+## Usage
 To test out the material learned from so far within the bootcamp.
 
-##Credits
+## Credits
 N/A
 
 ##License
