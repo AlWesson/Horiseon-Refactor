@@ -1,5 +1,5 @@
 # Horiseon_Refactor
-Module 1 Challenge site
+Module 1 Challenge page
 
 ## Description
 Page created for week 1 challenge. Page must remain the same while cleaning up the code in both HTML and CSS files.
